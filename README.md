@@ -1,0 +1,3 @@
+# Pinball-Play-Field
+This repository describes the initial ideas regarding the Pinball playing field.
+
