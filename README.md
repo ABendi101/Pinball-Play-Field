@@ -1,4 +1,3 @@
 # Pinball-Play-Field
-This repository describes the initial ideas regarding the Pinball playing field.
 
-View Indv Project file to view initial ideas.
+This project details the steps taken in designing the play field of a Pinball machine made out of cardboard retrofitted with electronic devices. 
